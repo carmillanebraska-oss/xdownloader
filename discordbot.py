@@ -1,4 +1,3 @@
-pip install discord.py
 import discord
 from discord.ext import commands
 import requests
@@ -7,7 +6,7 @@ from urllib.parse import urljoin
 import asyncio
 
 # Configurações
-TOKEN = "MTQ3MzEyMjAzNDUwOTgwNzYxNg.GFLkrO.rpQgkki3rbSsjy05g6j4vMrn6fYXDNrIi70H9Q"  # ← cole aqui entre aspas!
+TOKEN = "MTQ3MzEyMjAzNDUwOTgwNzYxNg.GdE-Dn.t04sayXvJvqI368tXiXnskcnnEpV4z4CCl6Iw4"  # ← cole aqui entre aspas!
 
 intents = discord.Intents.default()
 intents.message_content = True
